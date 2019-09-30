@@ -4,7 +4,7 @@ This is a simple version of the famous Flappy Bird Game. The application was bui
 
 ## Example
 
-![](https://github.com/tphuong141607/yesCODE--Simple-FlappyBird-Game/blob/master/flappyBirdExample.gif)
+![](https://github.com/tphuong141607/yesCODE--Simple-FlappyBird-Game/blob/master/flappyBirdExample.gif | width=400)
 
 ## How to run this program on your computer locally?
 
