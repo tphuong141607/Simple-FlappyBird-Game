@@ -3,8 +3,6 @@
 This is a simple version of the famous Flappy Bird Game. The application was built using Java language, and Abstract Window Toolkit (AWT) for GUI. The project was created on August 2017.
 
 ## Example
-
-![](https://github.com/tphuong141607/yesCODE--Simple-FlappyBird-Game/blob/master/flappyBirdExample.gif width=400)
 <img src="https://github.com/tphuong141607/yesCODE--Simple-FlappyBird-Game/blob/master/flappyBirdExample.gif" width="400">
 
 ## How to run this program on your computer locally?
